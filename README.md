@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello! Welcome to my README! 
+
+![brain_1f9e0-1](https://github.com/user-attachments/assets/374b4c47-072f-437a-96bb-4c111a88eb9c)
+I’m currently working on an employee/HR portal for Family Empowerment Associates pro Bono. Family Empowerment Associates is a mental health service facility and a small business contributing to their local community. I am available to showcase what I have upon request!
+
+
+
 
 <!--
 **P3R3GRIN3/P3R3GRIN3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
