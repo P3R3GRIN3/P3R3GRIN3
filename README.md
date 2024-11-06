@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Paulo Moreno</h1>
-<h3 align="center">A recent graduate from Stockton University!</h3>
+<h1 align="center">Hello 👋 I'm Paulo, recent graduate from Stockton University!</h1>
+<h3 align="center">I am currently working on an employee portal for the mental health service faciltiy, Family Empowerment Group. This small business has proved to consistently bring positive contributes to their local community, and as such, I felt the need to volunteer my time and assist in their IT/Full-Stack needs whenever I can. I can showcase my current website upon request. Some information is private. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
